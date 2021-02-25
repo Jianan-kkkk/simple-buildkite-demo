@@ -1,3 +1,1 @@
-# simple-buildkite-demo
-[![Build status](https://badge.buildkite.com/5ee17857bdaeb404de3a4cc62e9b0afeec9aab614c783029f2.svg)](https://buildkite.com/test-699/first-pipeline)
-???
+[![Build status](https://badge.buildkite.com/e11ed8a0e4c09cc19960f17578a6b47f7687523a0013f26bbc.svg)](https://buildkite.com/onboarding-1/test)
