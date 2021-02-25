@@ -17,3 +17,7 @@ steps:
   - command: "./auto/deploy"
     label: "Deploy"
     branches: "master"
+
+  - command: "./auto/deploy"
+    label: "Deploy"
+    branches: "master"
